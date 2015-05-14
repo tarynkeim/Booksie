@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  role: MyString
+  affiliation: MyString
+  user_id: 
+  child_id: 
+
+two:
+  role: MyString
+  affiliation: MyString
+  user_id: 
+  child_id: 
